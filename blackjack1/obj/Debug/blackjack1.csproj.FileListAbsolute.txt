@@ -1,0 +1,32 @@
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\bin\Debug\blackjack1.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\bin\Debug\blackjack1.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\bin\Debug\blackjack1.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.AssemblyReference.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.SuggestedBindingRedirects.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\MainWindow.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\App.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1_MarkupCompile.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1_MarkupCompile.lref
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\MainWindow.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.g.resources
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.Properties.Resources.resources
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.GenerateResource.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.CoreCompileInputs.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\blackjack1\blackjack1\obj\Debug\blackjack1.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\bin\Debug\blackjack1.exe.config
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\bin\Debug\blackjack1.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\bin\Debug\blackjack1.pdb
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.AssemblyReference.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.SuggestedBindingRedirects.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\MainWindow.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\App.g.cs
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1_MarkupCompile.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1_MarkupCompile.lref
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\MainWindow.baml
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.g.resources
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.Properties.Resources.resources
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.GenerateResource.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.csproj.CoreCompileInputs.cache
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.exe
+C:\Users\17hfoster\OneDrive - Bury Grammar Schools\A level\Computer science\blackjack1\blackjack1\obj\Debug\blackjack1.pdb

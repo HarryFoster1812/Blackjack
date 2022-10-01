@@ -1,0 +1,32 @@
+﻿<Window x:Class="blackjack1.MainWindow"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:local="clr-namespace:blackjack1"
+  mc:Ignorable="d"
+  Title="MainWindow" Height="350" Width="520">
+    <Grid Margin="0,0,0,0">
+        <Button x:Name="hitme" Content="Hit Me!" HorizontalAlignment="Left" Margin="26,26,0,0" VerticalAlignment="Top" Width="75" Click="hitme_Click"/>
+        <Button x:Name="stand" Content="Stand" HorizontalAlignment="Left" Margin="118,26,0,0" VerticalAlignment="Top" Width="75" Click="stand_Click"/>
+		<Label x:Name="PlayerScoreLabel" Content="" HorizontalAlignment="Left" Margin="250,26,0,0" VerticalAlignment="Top" Width="75"/>
+		<Label x:Name="DealerScoreLabel" Content="" HorizontalAlignment="Left" Margin="300,26,0,0" VerticalAlignment="Top" Width="75"/>
+		<Label x:Name="State" Content="" HorizontalAlignment="Left" Margin="300,26,0,0" VerticalAlignment="Top" Width="75"/>
+        <Canvas HorizontalAlignment="Left" Height="250" Margin="10,50,0,0" VerticalAlignment="Top" Width="500">
+            <Image x:Name="dealercard1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="0" Canvas.Top="50"/>
+            <Image x:Name="dealercard2" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="70" Canvas.Top="50"/>
+            <Image x:Name="dealercard3" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="140" Canvas.Top="50"/>
+            <Image x:Name="dealercard4" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="210" Canvas.Top="50"/>
+            <Image x:Name="dealercard5" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="280" Canvas.Top="50"/>
+            <Image x:Name="dealercard6" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="350" Canvas.Top="50"/>
+            <Image x:Name="dealercard7" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="420" Canvas.Top="50"/>
+            <Image x:Name="playercard1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="0" Canvas.Top="150"/>
+            <Image x:Name="playercard2" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="70" Canvas.Top="150"/>
+            <Image x:Name="playercard3" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="140" Canvas.Top="150"/>
+            <Image x:Name="playercard4" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="210" Canvas.Top="150"/>
+            <Image x:Name="playercard5" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="280" Canvas.Top="150"/>
+            <Image x:Name="playercard6" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="350" Canvas.Top="150"/>
+            <Image x:Name="playercard7" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="60" Canvas.Left="420" Canvas.Top="150"/>
+        </Canvas>
+    </Grid>
+</Window>
